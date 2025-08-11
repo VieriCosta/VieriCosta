@@ -128,14 +128,10 @@ Me chamo Vieri Costa, tenho 22 anos e sou natural de Pocinhos. Atualmente, curso
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=VieriCosta&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+
+<p align="left">
+  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=VieriCosta&show_icons=true&theme=github_dark" alt="VieriCosta's stats"/>
+</p>
 
 <img 
       align="left" 
