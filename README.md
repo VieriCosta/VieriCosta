@@ -4,29 +4,9 @@
 
 Me chamo Vieri Costa, tenho 22 anos e sou natural de Pocinhos. Atualmente, curso Sistemas de Informação na UNIFACISA. Sou apaixonado por tecnologia e estou sempre em busca de ampliar meus conhecimentos e habilidades na área. Gosto de compartilhar o que aprendo para contribuir com a comunidade e crescer profissionalmente..
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/vieri-costa-de-oliveira-76a1122a4/" target="_blank">
-    <img 
-        alt="Me siga no Linkedin" 
-        title="Me siga no Linkedin" 
-        src="https://custom-icon-badges.demolab.com/badge/Conecte--se%20no%20LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=004182"
-    />
-</a>
-    <a href="https://github.com/VieriCosta?tab=followers" target="_blank">
-    <img 
-        title="Me siga no GitHub" 
-        src="https://custom-icon-badges.demolab.com/github/followers/VieriCosta?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        alt="Seguidores GitHub de VieriCosta"
-    />
-</a>
-<a href="mailto:viericostayt@gmail.com" target="_blank">
-    <img 
-        alt="Enviar email para Vieri" 
-        title="Entre em contato por email" 
-        src="https://custom-icon-badges.demolab.com/badge/Email-viericostayt@gmail.com-blue?logo=gmail&logoColor=white&style=for-the-badge&labelColor=0052cc"
-    />
-</a>
-</p>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_viericosta)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vieri-costa-de-oliveira/)
+[![Email](https://img.shields.io/badge/azevedo.darllinson@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viericostayt@gmail.com)
 
 ### 🤖 Linguagens e Tecnologias
 
