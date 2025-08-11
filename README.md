@@ -6,7 +6,7 @@ Me chamo Vieri Costa, tenho 22 anos e sou natural de Pocinhos. Atualmente, curso
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_viericosta)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vieri-costa-de-oliveira/)
-[![Email](https://img.shields.io/badge/azevedo.darllinson@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viericostayt@gmail.com)
+[![Email](https://img.shields.io/badge/aviericostayt@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viericostayt@gmail.com)
 
 ### 🤖 Linguagens e Tecnologias
 
