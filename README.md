@@ -3,7 +3,7 @@
 <p align="left">
     <a href="https://www.linkedin.com/in/vieri-costa-de-oliveira-76a1122a4/" target="_blank">
     <img 
-        alt="Conecte-se no LinkedIn" 
+        alt="Me siga no Linkedin" 
         title="Me siga no Linkedin" 
         src="https://custom-icon-badges.demolab.com/badge/Conecte--se%20no%20LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=004182"
     />
