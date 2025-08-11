@@ -1,4 +1,8 @@
-## Hi there 👋
+# 💻 Vieri Costa
+
+**`Desenvolvedor FullStack`**
+
+Me chamo Vieri Costa, tenho 22 anos e sou natural de Pocinhos. Atualmente, curso Sistemas de Informação na UNIFACISA. Sou apaixonado por tecnologia e estou sempre em busca de ampliar meus conhecimentos e habilidades na área. Gosto de compartilhar o que aprendo para contribuir com a comunidade e crescer profissionalmente..
 
 <p align="left">
     <a href="https://www.linkedin.com/in/vieri-costa-de-oliveira-76a1122a4/" target="_blank">
