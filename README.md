@@ -128,16 +128,16 @@ Me chamo Vieri Costa, tenho 23 anos e moro em Pocinhos-PB. Atualmente, curso Sis
 
 ### 📊 Estatísticas
 
-
 <p align="left">
-  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=VieriCosta&show_icons=true&theme=github_dark" alt="VieriCosta's stats"/>
-</p>
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=VieriCosta&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img
+    height="180"
+    src="https://github-readme-stats-omega-inky-52.vercel.app/api?username=VieriCosta&show_icons=true&theme=dark&hide=stars&count_private=true&v=2"
+    alt="Estatísticas do GitHub de Vieri Costa"
   />
 
+  <img
+    height="180"
+    src="https://github-readme-stats-omega-inky-52.vercel.app/api/top-langs/?username=VieriCosta&layout=compact&theme=dark&v=2"
+    alt="Linguagens mais utilizadas por Vieri Costa"
+  />
 </p>
